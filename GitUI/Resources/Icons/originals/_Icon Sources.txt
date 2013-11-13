@@ -1,3 +1,6 @@
+rem modified by JFJD
+
+
 From Open Icon Library
 ======================
 char-scorpio.png
